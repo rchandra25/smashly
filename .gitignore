@@ -22,3 +22,14 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# SQLite database
+/database/*.sqlite
+/database/*.sqlite-journal
+
+# NativePHP
+/native
+/credentials
+
+# Windows artifacts
+NUL
